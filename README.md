@@ -1,1 +1,1 @@
-✨[gooutwithme.com](http://gooutwithmesmit.com) 
+✨[gooutwithmesmit.com](http://gooutwithmesmit.com) 

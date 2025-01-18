@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 90vh;
     background-color: #3E439C;
 }
 
@@ -19,7 +19,7 @@ body {
 
 .header_text {
     font-family: 'Nunito';
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     color: white;
     text-align: center;

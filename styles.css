@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #3E439C;
+    background-color: #F8C8DC;
 }
 
 #noButton {
@@ -37,7 +37,7 @@ body {
 }
 
 .btn {
-    background-color: #3E439C;
+    background-color: #FFB6C1;
     color: white;
     padding: 15px 32px;
     text-align: center;
